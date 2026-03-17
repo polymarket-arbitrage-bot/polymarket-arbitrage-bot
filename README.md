@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="1200" alt="Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot." src="assets/download-poly.png" />
+    <img width="1200" alt="Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot." src="assets/download-polymarket.png" />
   </a>
 </div>
 
