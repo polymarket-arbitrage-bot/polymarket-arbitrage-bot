@@ -1,5 +1,11 @@
 # 🤖 Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot." src="assets/poly-market.png" />
+  </a>
+</div>
+
 > **Project Concept: Why do you need this right here, right now?**
 > "Stop betting on luck — start exploiting mathematical inefficiency."
 > While 99% of users treat Polymarket like a standard sportsbook, trying to guess the future, Polymarket Predator views the platform as a Central Limit Order Book (CLOB) decentralized exchange. Every second, due to update latencies between spot markets (Binance, Bybit) and Polymarket, micro-arbitrage windows emerge. Our software is the only HFT terminal that automatically finds and captures this spread. **This is the exact tool that turned $6,556 into $100,000 in 30 days right in front of the entire community.**
@@ -63,7 +69,7 @@ We've simplified the onboarding to the max. You **do not** need to install Pytho
 
 -----
 
-## ❓ Deep FAQ: Answers to Key Questions
+## ❓FAQ
 
 **1. What is the minimum deposit required to start?**
 While the public $100,000 case study started with $6,556, the bot operates correctly on smaller volumes. We recommend starting with an amount **between $500 and $1,000** so that the partial hedging strategy makes mathematical sense considering Polygon network fees.
