@@ -6,15 +6,15 @@
   </a>
 </div>
 
+> **Project Concept: Why do you need this right here, right now?**
+> "Stop betting on luck — start exploiting mathematical inefficiency."
+> While 99% of users treat Polymarket like a standard sportsbook, trying to guess the future, Polymarket Predator views the platform as a Central Limit Order Book (CLOB) decentralized exchange. Every second, due to update latencies between spot markets (Binance, Bybit) and Polymarket, micro-arbitrage windows emerge. Our software is the only HFT terminal that automatically finds and captures this spread. **This is the exact tool that turned $6,556 into $100,000 in 30 days right in front of the entire community.**
+
 <div align="center">
   <a href="../../releases/latest">
     <img width="1200" alt="Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot." src="assets/download-polymarket.png" />
   </a>
 </div>
-
-> **Project Concept: Why do you need this right here, right now?**
-> "Stop betting on luck — start exploiting mathematical inefficiency."
-> While 99% of users treat Polymarket like a standard sportsbook, trying to guess the future, Polymarket Predator views the platform as a Central Limit Order Book (CLOB) decentralized exchange. Every second, due to update latencies between spot markets (Binance, Bybit) and Polymarket, micro-arbitrage windows emerge. Our software is the only HFT terminal that automatically finds and captures this spread. **This is the exact tool that turned $6,556 into $100,000 in 30 days right in front of the entire community.**
 
 -----
 
