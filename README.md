@@ -2,7 +2,13 @@
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="1200" alt="Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot." src="assets/poly-market.png" />
+    <img width="1200" alt="Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot." src="assets/polymarket-logo.png" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="Polymarket Predator: The Ultimate High-Frequency Arbitrage Bot." src="assets/download-poly.png" />
   </a>
 </div>
 
